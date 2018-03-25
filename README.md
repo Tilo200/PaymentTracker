@@ -4,7 +4,7 @@ command for running the application:
 -------------------------------------
 java -jar PaymentTracker-1.0.0-jar-with-dependencies.jar --fileName=<filename.extension>
 
-	- <filename.extension> optional parameter for defining file with data to be loaded on startup
+	--fileName=<filename.extension> optional parameter for defining file with data to be loaded on startup
 	
 In case an error occurs during file loading, the process is aborted and the application will continue without loading the data.
 	
