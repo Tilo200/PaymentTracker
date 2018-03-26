@@ -2,7 +2,7 @@
 
 command for running the application:
 -------------------------------------
-java -jar PaymentTracker-0.2.0-jar-with-dependencies.jar --fileName=<filename.extension>
+java -jar PaymentTracker-0.2.0.jar --fileName=<filename.extension>
 
 	--fileName=<filename.extension> optional parameter for defining file with data to be loaded on startup
 	
