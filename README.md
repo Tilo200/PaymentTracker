@@ -5,6 +5,7 @@ command for running the application:
 java -jar PaymentTracker-0.2.0.jar --fileName=<filename.extension>
 
 	--fileName=<filename.extension> optional parameter for defining file with data to be loaded on startup
+	(for file structure example see: payments.txt)
 	
 In case an error occurs during file loading, the process is aborted and the application will continue without loading the data.
 	
